@@ -20,5 +20,5 @@ no_index:
 requires:
   JSON: '2.9'
   REST::Client: '88'
-version: '0.02'
+version: '0.03'
 x_serialization_backend: 'CPAN::Meta::YAML version 0.018'
