@@ -1,6 +1,8 @@
 SDK de LibreDTE para Perl
 =========================
 
+**OBSOLETO**: repositorio sin mantención.
+
 SDK para realizar la integración con los servicios web de LibreDTE desde Perl.
 
 Este código está liberado bajo licencia LGPL. O sea, puede ser utilizado tanto
